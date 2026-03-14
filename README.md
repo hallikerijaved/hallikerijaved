@@ -9,7 +9,7 @@
 
 * 🎓 B.Tech Computer Science Engineering student
 * 🔧 Interested in **Full Stack Development & Software Engineering**
-* 📚 Currently learning **MERN Stack & Modern Web Technologies**
+* 📚 Currently learning **Modern Web Technologies**
 * 🚀 Building real-world projects and improving problem-solving skills
 
 ---
