@@ -1,96 +1,128 @@
 # 🚀 Javed Hallikeri
 
-💻 **Full Stack Developer | B.Tech CSE Student**
-🌐 Passionate about building scalable web applications and solving real-world problems through code.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Learner;Building+Real+World+Projects;Open+to+Internships+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=hallikerijaved&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Learner;Building+Real+World+Projects;Open+to+Internships+%F0%9F%9A%80" /> </p>
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-
- <p> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> </p>
-
-
-**Backend**
-
-<p> <img src="https://skillicons.dev/icons?i=nodejs,express,php" /> </p>
-
-**Database**
-
-<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
-
-**Tools**
-
-<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
+🎓 B.Tech **Computer Science Engineering Student**  
+💻 Passionate about **Full Stack Development**  
+🚀 Building real-world web applications  
+📚 Currently learning **MERN Stack**
 
 ---
 
-## 📂 Featured Projects
+# 🛠 Tech Stack
 
-### 🧾 BizFlow POS System
+### 💻 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
 
-A restaurant POS system for billing and order management.
+### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php" />
+</p>
+
+### 🗄 Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 📂 Featured Projects
+
+## 🧾 BizFlow POS System
+Restaurant POS system for billing and order management.
 
 **Features**
 
-* Order tracking
-* Billing system
-* Customer management
-* Reports generation
+- Order tracking  
+- Billing system  
+- Customer management  
+- Sales reports  
 
 ---
 
-### 🗳 Online Voting System
-
+## 🗳 Online Voting System
 Secure voting platform with authentication and OTP verification.
 
 **Features**
 
-* Admin panel
-* Secure voter login
-* One vote per position
-* Email OTP verification
+- Admin dashboard  
+- Secure voter login  
+- One vote per position  
+- Email OTP verification  
 
 ---
 
-### 🧾 Invoice Generator
-
-Professional invoice generator with PDF export and customer details.
+## 🧾 Invoice Generator
+Professional invoice generator with PDF export.
 
 **Features**
 
-* Itemized billing
-* Discount calculation
-* PDF generation
-* Customer information
+- Itemized billing  
+- Discount calculation  
+- Customer information  
+- PDF invoice download  
 
 ---
 
-### 🍽 Restaurant Management App
-
-A web application to manage restaurant menu, orders, and customers.
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hallikerijaved\&show_icons=true\&theme=tokyonight)
+## 🍽 Restaurant Management App
+Web application to manage restaurant menu, orders, and customers.
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
-💼 LinkedIn: Add your LinkedIn profile here
-💻 GitHub: https://github.com/hallikerijaved
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hallikerijaved&show_icons=true&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=hallikerijaved&theme=tokyonight"/>
+
+</p>
 
 ---
 
-⭐ *Always learning and building new projects.*
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hallikerijaved&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/hallikerijaved/hallikerijaved/output/snake.svg" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 Email: your-email@gmail.com  
+
+💼 LinkedIn: Add your LinkedIn profile here  
+
+💻 GitHub:  
+https://github.com/hallikerijaved  
+
+---
+
+⭐ **Always learning and building impactful projects**
