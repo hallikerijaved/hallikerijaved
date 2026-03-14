@@ -11,6 +11,7 @@
 * 🔧 Interested in **Full Stack Development & Software Engineering**
 * 📚 Currently learning **Modern Web Technologies**
 * 🚀 Building real-world projects and improving problem-solving skills
+  <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Learner;Building+Real+World+Projects;Open+to+Internships+%F0%9F%9A%80" /> </p>
 
 ---
 
