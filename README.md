@@ -18,7 +18,7 @@
 
 **Frontend**
 
-* HTML5
+* HTML5 <p> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> </p>
 * CSS3
 * JavaScript
 
