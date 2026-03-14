@@ -116,9 +116,9 @@ Web application to manage restaurant menu, orders, and customers.
 
 # 📫 Connect With Me
 
-📧 Email: your-email@gmail.com  
+📧 Email: javedhalikeri39932gmail.com
 
-💼 LinkedIn: Add your LinkedIn profile here  
+💼 LinkedIn: https://www.linkedin.com/in/javed-hallikeri3993
 
 💻 GitHub:  
 https://github.com/hallikerijaved  
