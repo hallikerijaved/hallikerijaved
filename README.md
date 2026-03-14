@@ -120,8 +120,7 @@ Web application to manage restaurant menu, orders, and customers.
 
 💼 LinkedIn: https://www.linkedin.com/in/javed-hallikeri3993
 
-💻 GitHub:  
-https://github.com/hallikerijaved  
+💻 GitHub: https://github.com/hallikerijaved  
 
 ---
 
