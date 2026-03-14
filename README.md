@@ -18,26 +18,20 @@
 
 **Frontend**
 
-* HTML5 <p> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> </p>
-* CSS3
-* JavaScript
+ <p> <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> </p>
+
 
 **Backend**
 
-* Node.js
-* Express.js
-* PHP
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,php" /> </p>
 
 **Database**
 
-* MongoDB
-* MySQL
+<p> <img src="https://skillicons.dev/icons?i=mongodb,mysql" /> </p>
 
 **Tools**
 
-* Git
-* GitHub
-* VS Code
+<p> <img src="https://skillicons.dev/icons?i=git,github,vscode" /> </p>
 
 ---
 
