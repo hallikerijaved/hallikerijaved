@@ -90,9 +90,9 @@ Web application to manage restaurant menu, orders, and customers.
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hallikerijaved&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hallikerijaved&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=hallikerijaved&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=hallikerijaved&theme=tokyonight&hide_border=true"/>
 
 </p>
 
